@@ -1,2 +1,3 @@
 #pierwszy plik1
 tresc
+nowa tresc
